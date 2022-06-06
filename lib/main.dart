@@ -28,7 +28,7 @@ class _MyAppState extends State<MyApp> {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Example'),
+          title: Text('folding'),
           actions: [
             IconButton(
               onPressed: () {
@@ -77,7 +77,7 @@ class _MyAppState extends State<MyApp> {
                       child: ElevatedButton(
                         onPressed: () {},
                         child: Text(
-                          'This is a other sample for expandedCard.',
+                          'Tfold below.',
                         ),
                       ),
                     )
